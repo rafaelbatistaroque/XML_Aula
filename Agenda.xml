@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+  <titulo>Agenda de contatos</titulo>
+  <contatos>
+    <contato id="1" nome="Rafael Batista" telefone="67 99990000" />
+    <contato id="2" nome="João Fulano" telefone="67 99991111" />
+    <contato id="3" nome="Pedro Sicrano" telefone="67 99992222" />
+    <contato id="4" nome="Lucas beltrano" telefone="67 99993333" />
+    <contato id="5" nome="teste novo elemento" telefone="67 99995555" />
+  </contatos>
+</agenda>
